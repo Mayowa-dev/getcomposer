@@ -1,0 +1,46 @@
+body {
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+}
+
+
+.logo{
+    /* display: flex;
+    margin-left: 50px; */
+}
+
+button{
+        /* display: block;
+        margin-bottom: 10px;
+        text-align: justify;
+        margin-left: 500px;
+         */
+}
+
+h1{
+    margin-left: 450px;
+}
+img{
+    margin-left: 500px;
+}
+
+.Started{
+    margin:20px 250px 20px 470px;
+    
+}
+.Started button{
+    /* padding: 15px 15px; */
+    width: 200px;
+    height: 40px;
+}
+button{
+    margin: 0px 20px 0px 0px;
+    background-color: #eeeeee;
+    border-radius: 4px;
+    color: #4444ff;
+    font-size: 20px;
+    border: 1px solid #eeeeee ;
+    font-family: sans-serif;
+}
